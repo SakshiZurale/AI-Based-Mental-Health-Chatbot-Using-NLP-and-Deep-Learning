@@ -181,12 +181,6 @@ This project is intended for academic and educational use only.
 
 ---
 
-# ⭐ GitHub Upload Tips
-- Add screenshots for better presentation
-- Remove unnecessary files
-- Keep code properly formatted
-- Add `.gitignore` file
-
 ---
 
 # 🙌 Acknowledgement
